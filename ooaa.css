@@ -49,3 +49,9 @@ a {
     text-decoration: none;
     color: #FF6666;
 }
+
+.funt {
+    font-family: Amiko;
+    font-weight: normal;
+    font-style: normal;
+}
